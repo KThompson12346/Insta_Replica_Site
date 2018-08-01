@@ -17,6 +17,7 @@
 
 .Option {
   display: inline-block;
+  padding: 5px;
 }
 
 .place_holder {
