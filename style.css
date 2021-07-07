@@ -1,0 +1,35 @@
+.left_box {
+  width: 200px;
+  float: left;
+  height: 250px;
+}
+
+.right_box {
+  width: 400px;
+  float: right;
+  height: 250px;
+}
+
+.sign_up_form {
+  padding: 5px;
+  text-align: center;
+}
+
+.Option {
+  display: inline-block;
+  padding: 5px;
+}
+
+.place_holder {
+  display: inline-block;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.line {
+  display: inline-block;
+}
+
+#first_button {
+  display: block;
+}
